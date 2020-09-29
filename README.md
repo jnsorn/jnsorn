@@ -1,5 +1,4 @@
-![Header](images/banner1.png)
-![Header](images/banner2.png)
+![Header](images/banner.png)
 
 <!--
 **jnsorn/jnsorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
