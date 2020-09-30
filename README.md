@@ -3,12 +3,15 @@
 # <img src = "images/hello.gif" width = "30px"> I am
 
 <pre>
-안녕하세요. 저는 도메인 설계와 리팩토링을 좋아하는 자바 백엔드 개발자 또링입니다. 
+안녕하세요. 저는 객체지향 설계와 리팩토링을 좋아하는 자바 백엔드 개발자 또링입니다. 
 어떻게 하면 최선의 코드가 나올지 항상 의구심을 품고 고민하는 것을 좋아합니다.
-또한, 테스트 코드의 중요성을 인지하여 ATDD 방식의 개발을 진행하고 있습니다.  
+처음엔 단순히 서비스를 출시하는 것에서 느낀 성취감으로 개발을 시작했지만,
+여러 고민을 하며 느껴지는 성장으로 인한 성취감이 좋아 본격적으로 개발을 하게 되었습니다.
 
-현재는 우아한테크코스2기 자바 웹 백엔드 개발자 교육과정을 통해 객체지향과 TDD, 클린 코드에 대해 학습하고 있습니다. 
-단순히 배우는 것에 그치지 않고, 실제 서비스를 출시하여 사용자의 피드백을 바탕으로 개선해나가는 경험도 하고 있습니다.
+현재는 우아한테크코스2기 자바 웹 백엔드 개발자 교육과정을 통해 객체지향과 TDD, 클린 코드에 대해 학습하고 있습니다.
+테스트 코드 한 줄 없던 레벨1 초반의 사이드 프로젝트 덕분에 테스트의 중요성을 깨달았습니다. 
+그 이후의 미션과 프로젝트에서는 TDD와 ATDD방식의 개발을 통해 안정성있는 코드를 작성하려고 노력합니다.
+또한, 두 개의 서비스를 출시하여 사용자의 피드백을 바탕으로 개선해나가는 경험도 하고 있습니다.
 </pre>
 
 
@@ -54,7 +57,6 @@
 # ⚒ Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MariaDB](https://img.shields.io/badge/MariaDB%20-%2320232a.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins%20-%2320232a.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
