@@ -1,14 +1,12 @@
-<p align="center">
-<img src = "images/banner.png" width = "600px">
-</p>
+<img src = "images/banner.png">
 
 ## <img src = "images/hello.gif" width = "30px"> I am:
-- I'm `🔥 passionate`, `🌱 growing`, `🤹🏻‍♀️ enjoying life`
-- I’m currently working on 🪐[woowacourse](https://woowacourse.github.io/)
+- I'm `passionate`, `growing`, `enjoying life`
+- I’m currently working on [woowacourse](https://woowacourse.github.io/)
 - I’m currently learning `OOP`, `TDD`, `CleanCode`
 
 <details>
-<summary>🎯 Goals </summary>
+<summary> Goals </summary>
 <h3>🗓 2030</h3>
 <pre>
 🌎 <b>파워(기술)블로거</b>
@@ -31,12 +29,14 @@
 </details>
 
     
-## ⚒ Languages and Tools:
-
+## ⚒ Skills:
+- Spring Boot를 이용하여 서버를 구축할 수 있어요.
+- Spring Data JPA와 같은 ORM 기술을 학습하여 사용하고 있어요.
+- CI/CD 환경을 구축 할 수 있어요.
 
 
 ## 🗂 Currently working on:
-_각 프로젝트에서 어떤 역할을 맡았는지 궁금하시다면 ` 🚀 담당 업무 `를 참고해주세요._
+_각 프로젝트에서 어떤 역할을 맡았는지 궁금하시다면_ ` 🚀 담당 업무 `_를 참고해주세요._
 
 ### 직고래
 
