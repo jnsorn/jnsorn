@@ -1,6 +1,6 @@
 <img src = "images/banner.png">
 
-## <img src = "images/hello.gif" width = "30px"> I am:
+# <img src = "images/hello.gif" width = "30px"> I am:
 - I'm `passionate`, `growing`, `enjoying life`
 - I’m currently working on [woowacourse](https://woowacourse.github.io/)
 - I’m currently learning `OOP`, `TDD`, `CleanCode`
@@ -29,16 +29,16 @@
 </details>
 
     
-## ⚒ Skills:
+# ⚒ Skills:
 - Spring Boot를 이용하여 서버를 구축할 수 있어요.
 - Spring Data JPA와 같은 ORM 기술을 학습하여 사용하고 있어요.
 - CI/CD 환경을 구축 할 수 있어요.
 
 
-## 🗂 Currently working on:
+# 🗂 Currently working on:
 _각 프로젝트에서 어떤 역할을 맡았는지 궁금하시다면_ ` 🚀 담당 업무 `_를 참고해주세요._
 
-### 직고래
+## 직고래
 
 [![About](http://img.shields.io/badge/-_💡_About-blue?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98) 
 [![Github](http://img.shields.io/badge/-Github-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company)](https://github.com/woowacourse-teams/2020-seller-lee-company) 
@@ -48,7 +48,7 @@ _각 프로젝트에서 어떤 역할을 맡았는지 궁금하시다면_ ` 🚀
 **당신이 속한 조직 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래**
 - 직고래는 따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸고 있어요.
 
-### SUPP
+## SUPP
 [![About](http://img.shields.io/badge/-_💡_About-blue?style=flat&link=https://github.com/woowa-supp/supp/blob/master/README.md)](https://github.com/woowa-supp/supp/blob/master/README.md) [![Github](http://img.shields.io/badge/-Github-black?style=flat&logo=Github&link=https://github.com/woowa-supp)](https://github.com/woowa-supp) [![Website](http://img.shields.io/badge/-_🌎_Website-white?style=flat&link=https://d10qlfpm4ciz64.cloudfront.net/)](https://d10qlfpm4ciz64.cloudfront.net/)
 [![Chrome Extension](http://img.shields.io/badge/-_🎁_Chrome_Extension-white?style=flat&link=https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)](https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)
 [![담당 업무](http://img.shields.io/badge/-_🚀_담당_업무-white?style=flat&&link=)](projects/SUPP.md) 
