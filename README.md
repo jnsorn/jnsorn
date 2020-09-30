@@ -2,10 +2,14 @@
 
 # <img src = "images/hello.gif" width = "30px"> I am
 
-안녕하세요. 저는 도메인 설계와 리팩토링을 좋아하는 개발자 또링(진소린)입니다. 
+<pre>
+안녕하세요. 저는 도메인 설계와 리팩토링을 좋아하는 자바 백엔드 개발자 또링입니다. 
 어떻게 하면 최선의 코드가 나올지 항상 의구심을 품고 고민하는 것을 좋아합니다.
-현재 우아한테크코스2기 백엔드 과정을 통해 객체지향과 TDD, 클린 코드에 대해 학습하고 있습니다. 
-교육을 진행하며 두 개의 프로젝트를 출시하여 사용자의 피드백을 바탕으로 개선해나가는 경험을 하고 있습니다.
+또한, 테스트 코드의 중요성을 인지하여 ATDD 방식의 개발을 진행하고 있습니다.  
+
+현재는 우아한테크코스2기 자바 웹 백엔드 개발자 교육과정을 통해 객체지향과 TDD, 클린 코드에 대해 학습하고 있습니다. 
+단순히 배우는 것에 그치지 않고, 실제 서비스를 출시하여 사용자의 피드백을 바탕으로 개선해나가는 경험도 하고 있습니다.
+</pre>
 
 
 <details>
@@ -48,6 +52,13 @@
 
     
 # ⚒ Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MariaDB](https://img.shields.io/badge/MariaDB%20-%2320232a.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins%20-%2320232a.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
+
 - **Spring Boot를 사용하여 서버를 구축할 수 있습니다.**
    - Spring Data JPA와 같은 ORM 기술을 학습하여 사용하고 있습니다.
    - Spring Rest Docs와 같은 문서화 도구를 학습하여 API 문서화를 하고 있습니다.
@@ -56,13 +67,6 @@
 - **테스트의 중요성을 깨닫고, 어떤 테스트 코드가 좋은 코드인지 고민합니다.**
    - ATDD를 통해 전반적인 요구사항에 검증하며 API 개발을 할 수 있습니다.
 
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MariaDB](https://img.shields.io/badge/MariaDB%20-%2320232a.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins%20-%2320232a.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
 
 # 🗂 Currently working on
 _각 프로젝트에서 어떤 역할을 맡았는지 궁금하시다면_ **` 🚀 담당 업무 `**_를 참고해주세요._
