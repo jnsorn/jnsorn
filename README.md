@@ -29,7 +29,6 @@
 
     
 # ⚒ Skills
-## 
 - **Spring Boot를 사용하여 서버를 구축할 수 있습니다.**
    - Spring Data JPA와 같은 ORM 기술을 학습하여 사용하고 있습니다.
 - **인프라 구축에 대해 이해도를 높이고 있습니다.**
@@ -38,14 +37,15 @@
    - ATDD로 API를 개발 할 수 있습니다.
    
 
-![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![Spring](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
-![ReactNative](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![MariaDB](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=2bbc8a)
-![Jenkins](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![Gradle](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MariaDB](https://img.shields.io/badge/MariaDB%20-%2320232a.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins%20-%2320232a.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20-%2320232a.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle%20-%2320232a.svg?&style=for-the-badge&logo=Gradle&logoColor=white)
 
 # 🗂 Currently working on
 _각 프로젝트에서 어떤 역할을 맡았는지 궁금하시다면_ **` 🚀 담당 업무 `**_를 참고해주세요._
