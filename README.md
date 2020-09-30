@@ -9,14 +9,7 @@
 
 **서비스 소개**
 
-조직내의 중고 거래 플랫폼
-
-**담당 업무**
-
-- 도메인 간의 연관 관계 설계
-- ATDD 방식의 API 개발
-- Jenkins를 이용한 CI/CD 구축
-- Expo를 이용한 Android App 배포 
+당신이 속한 그룹 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래 🐳
 
 ### SUPP
 [![About](http://img.shields.io/badge/-_💡_About-blue?style=flat&link=https://github.com/woowa-supp/supp/blob/master/README.md)](https://github.com/woowa-supp/supp/blob/master/README.md) [![Github](http://img.shields.io/badge/-Github-black?style=flat&logo=Github&link=https://github.com/woowa-supp)](https://github.com/woowa-supp) [![Website](http://img.shields.io/badge/-_🌎_Website-white?style=flat&link=https://d10qlfpm4ciz64.cloudfront.net/)](https://d10qlfpm4ciz64.cloudfront.net/)
@@ -27,10 +20,5 @@
 _식전 수프처럼 페어와의 협업 맛을 돋우는 애피타이저, SUPP_
 - SUPP의 개발자 유형 검사를 통해 자신의 개발 성향을 알 수 있어요.
 - 페어 프로그래밍이나 팀 프로젝트 시, 자주 언급되는 몇 가지 규칙에 대하여 손쉽게 작성하고, 편하게 볼 수 있어요.
-
-**담당 업무**
-
-- 도메인 설계
-- 전체적인 예외 처리 코드 작성
 
 ![Visitors](https://komarev.com/ghpvc/?username=jnsorn&label=visitors&color=yellowgreen)
