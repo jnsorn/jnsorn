@@ -2,7 +2,6 @@
 
 # <img src = "images/hello.gif" width = "30px"> I am:
 - I'm `passionate`, `growing`, `enjoying life`
-- I’m currently working on [woowacourse](https://woowacourse.github.io/)
 - I’m currently learning `OOP`, `TDD`, `CleanCode`
 
 <details>
@@ -22,18 +21,22 @@
     - 모든 이의 의견을 잘 들어줄 수 있는 사람
     - 논리와 근거 없이 내 주장을 고집하지 않는 사람
 💬 <b>회고 21년차</b> 
-    - 누구보다 내가 더 나를 잘 아는 사람
-    - 아는 것에 그치지 않고 발전하기 위해 노력하는 사람 
+    - 내가 나에 대해 늘 고민하고 멈춰있지 않기
+    - 발전하기 위해 노력하기
 </pre>
 </div>
 </details>
 
     
 # ⚒ Skills:
-- Spring Boot를 이용하여 서버를 구축할 수 있어요.
-- Spring Data JPA와 같은 ORM 기술을 학습하여 사용하고 있어요.
-- CI/CD 환경을 구축 할 수 있어요.
+### Spring Boot를 사용하여 서버를 구축할 수 있습니다.
+- Spring Data JPA와 같은 ORM 기술을 학습하여 사용하고 있습니다.
 
+### 인프라 구축에 대해 이해도를 높이고 있습니다.
+- CI/CD 환경을 구축하여 빌드와 배포를 자동화 할 수 있습니다.
+
+### 테스트의 중요성을 깨닫고, 어떤 테스트 코드가 좋은 코드인지 고민합니다.
+- ATDD로 API를 개발 할 수 있습니다.
 
 # 🗂 Currently working on:
 _각 프로젝트에서 어떤 역할을 맡았는지 궁금하시다면_ ` 🚀 담당 업무 `_를 참고해주세요._
