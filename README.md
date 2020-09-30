@@ -1,6 +1,6 @@
 <img src = "images/banner.png">
 
-# <img src = "images/hello.gif" width = "30px"> I am:
+# <img src = "images/hello.gif" width = "30px"> I am
 - I'm `passionate`, `growing`, `enjoying life`
 - I’m currently learning `OOP`, `TDD`, `CleanCode`
 
@@ -28,17 +28,26 @@
 </details>
 
     
-# ⚒ Skills:
-### Spring Boot를 사용하여 서버를 구축할 수 있습니다.
-- Spring Data JPA와 같은 ORM 기술을 학습하여 사용하고 있습니다.
+# ⚒ Skills
+## 
+- **Spring Boot를 사용하여 서버를 구축할 수 있습니다.**
+   - Spring Data JPA와 같은 ORM 기술을 학습하여 사용하고 있습니다.
+- **인프라 구축에 대해 이해도를 높이고 있습니다.**
+   - CI/CD 환경을 구축하여 빌드와 배포를 자동화 할 수 있습니다.
+- **테스트의 중요성을 깨닫고, 어떤 테스트 코드가 좋은 코드인지 고민합니다.**
+   - ATDD로 API를 개발 할 수 있습니다.
+   
 
-### 인프라 구축에 대해 이해도를 높이고 있습니다.
-- CI/CD 환경을 구축하여 빌드와 배포를 자동화 할 수 있습니다.
+![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![Spring](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+![ReactNative](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![MariaDB](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=2bbc8a)
+![Jenkins](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Gradle](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
 
-### 테스트의 중요성을 깨닫고, 어떤 테스트 코드가 좋은 코드인지 고민합니다.
-- ATDD로 API를 개발 할 수 있습니다.
-
-# 🗂 Currently working on:
+# 🗂 Currently working on
 _각 프로젝트에서 어떤 역할을 맡았는지 궁금하시다면_ **` 🚀 담당 업무 `**_를 참고해주세요._
 
 ## 직고래
