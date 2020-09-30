@@ -1,4 +1,3 @@
-![Header](images/banner.png)
 ## <img src = "images/hello.gif" width = "30px"> I am:
 - I'm `🔥 passionate`, `🌱 growing`, `🤹🏻‍♀️ enjoying life`
 - I’m currently working on 🪐[woowacourse](https://woowacourse.github.io/)
