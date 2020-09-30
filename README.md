@@ -9,7 +9,8 @@
 
 **서비스 소개**
 
-당신이 속한 그룹 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래 🐳
+_당신이 속한 조직 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래_
+- 직고래는 따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸고 있어요.
 
 ### SUPP
 [![About](http://img.shields.io/badge/-_💡_About-blue?style=flat&link=https://github.com/woowa-supp/supp/blob/master/README.md)](https://github.com/woowa-supp/supp/blob/master/README.md) [![Github](http://img.shields.io/badge/-Github-black?style=flat&logo=Github&link=https://github.com/woowa-supp)](https://github.com/woowa-supp) [![Website](http://img.shields.io/badge/-_🌎_Website-white?style=flat&link=https://d10qlfpm4ciz64.cloudfront.net/)](https://d10qlfpm4ciz64.cloudfront.net/)
