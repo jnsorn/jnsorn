@@ -1,3 +1,7 @@
+<p align="center">
+<img src = "images/banner.png" width = "600px">
+</p>
+
 ## <img src = "images/hello.gif" width = "30px"> I am:
 - I'm `🔥 passionate`, `🌱 growing`, `🤹🏻‍♀️ enjoying life`
 - I’m currently working on 🪐[woowacourse](https://woowacourse.github.io/)
@@ -27,20 +31,21 @@
 </details>
 
     
-## Languages and Tools:
+## ⚒ Languages and Tools:
 
 
 
-## 🗂 The projects I am currently working on:
+## 🗂 Currently working on:
+_각 프로젝트에서 어떤 역할을 맡았는지 궁금하시다면 ` 🚀 담당 업무 `를 참고해주세요._
+
 ### 직고래
+
 [![About](http://img.shields.io/badge/-_💡_About-blue?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98) 
 [![Github](http://img.shields.io/badge/-Github-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company)](https://github.com/woowacourse-teams/2020-seller-lee-company) 
 [![Download for Android](http://img.shields.io/badge/-_📲_Download_for_Android-white?style=flat&link=https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae&hl=en_US)](https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae&hl=en_US)
 [![담당 업무](http://img.shields.io/badge/-_🚀_담당_업무-white?style=flat&&link=)](projects/JIKGORAE.md) 
 
-**서비스 소개**
-
-_당신이 속한 조직 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래_
+**당신이 속한 조직 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래**
 - 직고래는 따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸고 있어요.
 
 ### SUPP
@@ -48,9 +53,7 @@ _당신이 속한 조직 어디든 당신이 원하는 것을 사고 파세요. 
 [![Chrome Extension](http://img.shields.io/badge/-_🎁_Chrome_Extension-white?style=flat&link=https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)](https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)
 [![담당 업무](http://img.shields.io/badge/-_🚀_담당_업무-white?style=flat&&link=)](projects/SUPP.md) 
 
-**서비스 소개**
-
-_식전 수프처럼 페어와의 협업 맛을 돋우는 애피타이저, SUPP_
+**식전 수프처럼 페어와의 협업 맛을 돋우는 애피타이저, SUPP**
 - SUPP의 개발자 유형 검사를 통해 자신의 개발 성향을 알 수 있어요.
 - 페어 프로그래밍이나 팀 프로젝트 시, 자주 언급되는 몇 가지 규칙에 대하여 손쉽게 작성하고, 편하게 볼 수 있어요.
 
