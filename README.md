@@ -84,7 +84,7 @@
 **당신이 속한 조직 어디든 당신이 원하는 것을 사고파세요. 조직 중고 거래, 직고래**
 - 직고래는 따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸고 있어요.
 
-<img src = "images/jikgorae_history.png">
+<img src = "images/jikgorae_history.png" width="500px">
 
 ## 담당 업무
 **기간 : 기획 ~ 베타 버전 출시**
@@ -110,7 +110,7 @@
 - SUPP의 개발자 유형 검사를 통해 자신의 개발 성향을 알 수 있어요.
 - 페어 프로그래밍이나 팀 프로젝트 시, 자주 언급되는 몇 가지 규칙에 대하여 손쉽게 작성하고, 편하게 볼 수 있어요.
 
-<img src = "images/supp_history.png">
+<img src = "images/supp_history.png" width="500px">
 
 
 ## 담당 업무
