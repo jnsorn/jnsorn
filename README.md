@@ -62,8 +62,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins%20-%2320232a.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
 
 - **Spring Boot를 사용하여 서버를 구축할 수 있습니다.**
-   - Spring과 Spring Boot의 차이에 대해 인지하고 사용하고 있습니다.
-       - 관련 [영상](https://www.youtube.com/watch?v=OdpPvdB7qZY) 및 [포스팅](https://ssoco.tistory.com/66?category=840029)
+   - Spring과 Spring Boot의 차이에 대해 인지하고 사용하고 있습니다.(관련 [영상](https://www.youtube.com/watch?v=OdpPvdB7qZY) 및 [포스팅](https://ssoco.tistory.com/66?category=840029))
    - Spring Data JPA와 같은 ORM 기술을 학습하여 사용하고 있습니다.
    - Spring Rest Docs와 같은 문서화 도구를 학습하여 API 문서화를 하고 있습니다.
 - **인프라 구축에 대해 이해도를 높이고 있습니다.**
@@ -84,14 +83,8 @@
 **당신이 속한 조직 어디든 당신이 원하는 것을 사고파세요. 조직 중고 거래, 직고래**
 - 직고래는 따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸고 있어요.
 
+### 연혁
 <img src = "images/jikgorae_history.png" width="500px">
-
-## 담당 업무
-**기간 : 기획 ~ 베타 버전 출시**
-- 핵심 엔티티 설계 및 구현
-
-**기간 : 베타 버전 ~ v1.0.0**
-- 전체적인 예외 처리 코드 작성
 
 ### 담당 업무
 
@@ -99,6 +92,11 @@
 - ATDD 방식의 API 개발
 - Jenkins를 이용한 CI/CD 구축
 - Expo를 이용한 Android App 배포 
+
+### 기술 스택
+Spring Boot, Spring Data JPA, Spring Security, Oauth2, ReactNative, MariaDB
+
+AWS EC2, Docker, Jenkins, Flyway
 
 ## SUPP
 [![About](http://img.shields.io/badge/-_💡_About-blue?style=flat&link=https://github.com/woowa-supp/supp/blob/master/README.md)](https://github.com/woowa-supp/supp/blob/master/README.md) [![Github](http://img.shields.io/badge/-Github-black?style=flat&logo=Github&link=https://github.com/woowa-supp)](https://github.com/woowa-supp) [![Website](http://img.shields.io/badge/-_🌎_Website-white?style=flat&link=https://d10qlfpm4ciz64.cloudfront.net/)](https://d10qlfpm4ciz64.cloudfront.net/)
@@ -110,17 +108,18 @@
 - SUPP의 개발자 유형 검사를 통해 자신의 개발 성향을 알 수 있어요.
 - 페어 프로그래밍이나 팀 프로젝트 시, 자주 언급되는 몇 가지 규칙에 대하여 손쉽게 작성하고, 편하게 볼 수 있어요.
 
+### 연혁
 <img src = "images/supp_history.png" width="500px">
 
 
-## 담당 업무
+### 담당 업무
 **기간 : 기획 ~ 베타 버전 출시**
 - 핵심 엔티티 설계 및 구현
 
 **기간 : 베타 버전 ~ v1.0.0**
 - 전체적인 예외 처리 코드 작성
 
-## 기술 스택
+### 기술 스택
 Spring Boot, Spring Data JPA, Spring Security, Oauth2, Mustache, MariaDB
 
 AWS EC2, RDB, CloudFront
