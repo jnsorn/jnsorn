@@ -94,14 +94,14 @@
 - Expo를 이용한 Android App 배포 
 
 **기간 : ~ v1.0.0**
-- 전체 도메인 간의 연관 관계 설계
+- 핵심 엔티티 간의 연관관계 매핑
 - Jenkins를 이용한 CI/CD 구축
 
 **기간 : ~ v2.0.0**
-- 담당 도메인 간의 연관 관계 설계(Article-Organization)
+- 담당 엔티티 간의 연관관계 매핑(Article-Organization)
 - Querydsl을 통한 조회기능 구현
 
-### 기술 스택
+### 서비스 기술 스택
 Spring Boot, Spring Data JPA, Querydsl, Spring Security, Oauth2, ReactNative, MariaDB, AWS EC2, Docker, Jenkins, Flyway
 
 ## SUPP
@@ -120,11 +120,11 @@ Spring Boot, Spring Data JPA, Querydsl, Spring Security, Oauth2, ReactNative, Ma
 - 서비스 기획
 - Mob 프로그래밍을 통한 전체 기능 구현
 
-**기간 : Beta ~ v1.0.0**
+**기간 : ~ v1.0.0**
 - 단위 테스트 작성
 - 전체적인 예외 처리 코드 작성
 
-### 사용 기술
+### 서비스 기술 스택
 Spring Boot, Spring Data JPA, Spring Security, Oauth2, Mustache, MariaDB, AWS EC2, RDB, CloudFront
 <br>
 
